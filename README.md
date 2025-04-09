@@ -26,7 +26,7 @@ Welcome to our **Super Mario**-themed 2D Graphics project, created for **CS352 -
 
 | Name              | ID         | Role              |
 |-------------------|------------|-------------------|
-| Marwan Elsayed    | 22003166   | Team Leader, Background, Mid-Screen Elements, Mario |
+| Marwan Elsayed    | 221003166   | Team Leader, Background, Mid-Screen Elements, Mario |
 | Hussein Galal     | 221001810  | Background Elements, Clouds, Bushes|
 
 
