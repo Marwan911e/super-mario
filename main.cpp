@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <cmath>
 
-const int WINDOW_WIDTH = 800;
+const int WINDOW_WIDTH = 1200;
 const int WINDOW_HEIGHT = 600;
 
 const GLfloat SKY_COLOR[] = {0.4f, 0.6f, 1.0f};
@@ -367,6 +367,7 @@ int main(int argc, char** argv) {
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
     glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
+    glutInitWindowPosition(200, 0);
     glutCreateWindow("Super-Mario-Bros.-221003166-221001810");
     initBlocksAndCoins();
     glutDisplayFunc(display);
