@@ -34,6 +34,6 @@ Welcome to our **Super Mario**-themed 2D Graphics project, created for **CS352 -
 
 ## ⚙️ Tech Stack
 
-- Language: C++ / OpenGL (or your stack here)
+- Language: C++ / OpenGL
 - Graphics: 2D Primitive Shapes
 
