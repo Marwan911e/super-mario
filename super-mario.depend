@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1744290168 source:c:\users\pc\desktop\graphics7th\super-mario\main.cpp
+1744294577 source:c:\users\pc\desktop\graphics7th\super-mario\main.cpp
 	<windows.h>
 	<GL/glu.h>
 	<GL/gl.h>
