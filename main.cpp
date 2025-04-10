@@ -6,7 +6,7 @@
 #include <cmath>
 
 const int WINDOW_WIDTH = 1200;
-const int WINDOW_HEIGHT = 600;
+const int WINDOW_HEIGHT = 800;
 
 const GLfloat SKY_COLOR[] = {0.4f, 0.6f, 1.0f};
 const GLfloat BRICK_COLOR[] = {0.91f, 0.47f, 0.2f};
@@ -350,6 +350,7 @@ void display() {
 void reshape(int width, int height) {
     glViewport(0, 0, width, height);
     glMatrixMode(GL_PROJECTION);
+    glutReshapeWindow(1200, 800);
     glLoadIdentity();
     gluOrtho2D(0, width, 0, height);
     glMatrixMode(GL_MODELVIEW);
