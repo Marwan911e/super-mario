@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1744294577 source:c:\users\pc\desktop\graphics7th\super-mario\main.cpp
+=======
+1744234510 source:c:\users\marwa\documents\college\term-6\graphics\super-mario\main.cpp
+>>>>>>> d261d07cba409ffc2ab584196af47126dfc7a00a
 	<windows.h>
 	<GL/glu.h>
 	<GL/gl.h>
@@ -217,7 +221,7 @@
 
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
 
-1741288897 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+1741461744 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
 	<GL/gl.h>
 	<GL/glu.h>
